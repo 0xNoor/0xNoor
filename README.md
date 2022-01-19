@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=0xNoor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=0xNoor)
