@@ -1,3 +1,5 @@
+![](https://github.com/0xNoor/0xNoor/blob/main/IMG_20230420_223845%20(1).png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A3E600&size=30&center=true&width=600&lines=Hello+Everyone;I'm+Mohd+Noor+Aman;I+love+Hardwares)](https://git.io/typing-svg)
 # Hi Everyone, I'm Mohd Noor Aman 👋  ![](https://komarev.com/ghpvc/?username=0xNoor)
 
