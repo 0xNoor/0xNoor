@@ -20,7 +20,7 @@
 
 
 <!-- (https://github.com/anuraghazra/github-readme-stats)   -->
-[![My github stats](https://github-readme-stats.vercel.app/api?username=0xNoor&show_icons=true&theme=gradient&bg_color=45,f1a69e,861657,FC28EA&include_all_commits=true)]
+![My github stats](https://github-readme-stats.vercel.app/api?username=0xNoor&show_icons=true&theme=transparent)
 
 
 
